@@ -1797,6 +1797,24 @@
     "official": false
   },
   {
+    "name": "Hyperresearch",
+    "url": "https://hyperresearch.ai/docs/mcp",
+    "description": "Hyperresearch is an AI deep research API. One question in, an adversarially reviewed report out, cited claims checked against their sources.",
+    "category": "browsers-search-and-web-automation",
+    "language": "Other",
+    "provider": "Thalient Labs Inc.",
+    "tags": [
+      "research",
+      "citations",
+      "remote",
+      "oauth"
+    ],
+    "official": false,
+    "endpoints": {
+      "streamableHttp": "https://mcp.hyperresearch.ai/mcp"
+    }
+  },
+  {
     "name": "Metabase MCP Server",
     "url": "https://www.metabase.com/docs/latest/ai/mcp",
     "description": "Query dashboards and explore data in Metabase BI.",
